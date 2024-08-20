@@ -1,5 +1,5 @@
  # Los Butis del Camino
-
+Las aventuras de los Butis en el Camindo de Santiago.
 
 ## Items 
 
@@ -41,3 +41,6 @@
 | Oct 1   |             |           |          |
 | Oct 2   |             |           |          |
 | Oct 3   |             |           |          |
+
+## References
+[Stingy Nomads Blog](https://stingynomads.com)

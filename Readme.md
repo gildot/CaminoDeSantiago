@@ -128,7 +128,11 @@ Las aventuras de los Butis en el Camindo de Santiago.
 | Gloves | [ ] | [ ] | [ ] |
 | Beanie | [ ] | [ ] | [ ] |
 
+---
+
 ![ButisCamino2](/images/ButisCamino2.jpeg)
 
-## References
+[Images created using ChatGPT image generation tool]
+
+## Useful links
 [Stingy Nomads Blog](https://stingynomads.com)

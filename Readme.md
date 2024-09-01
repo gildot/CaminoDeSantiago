@@ -48,7 +48,7 @@ Las aventuras de los Butis en el Camindo de Santiago.
 
 |                   | Abu | Tata | Tato |
 | ----------------- | --- | ---- | ---- |
-| **THE BAISCS** | | | |
+| **THE BASICS** | | | |
 | Backpack | [ ] | [ ] | [ ] |
 | Waterproof cover | [ ] | [ ] | [ ] |
 | Hydration bladder / Water bottle (1.5 - 2 L) | [ ] | [ ] | [ ] |

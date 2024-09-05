@@ -10,7 +10,7 @@ Las aventuras de los Butis en el Camindo de Santiago.
 |     | Sept 20 | Miami              | Lisboa             |                   |            | ✈️    |
 |     | Sept 21 | Lisboa             | Porto              |                   |            | ✈️    |
 |  1  | Sept 22 | Porto              | Vila do Conde      | 33 km / 20.5 mi   | 33 km      | 🦶   |
-|  2  | Sept 23 | Vila do Conde      | Marinhas           | 32 km / 20 mi     | 65 km      | 🦶   |
+|  2  | Sept 23 | Vila do Conde      | Marinhas           | 32 km / 20 mi     | 65 km      | 👣   |
 |  3  | Sept 24 | Marinhas           | Viana de Castelo   | 21 km / 13 mi     | 86 km      | 🦶   |
 |  4  | Sept 25 | Viana de Castelo   | Caminha            | 31 km / 19.5 mi   | 117 km     | 🦶   |
 |  5  | Sept 26 | Caminha            | Mougás/Viladesuso  | 24 km / 15 mi     | 141 km     | 🦶   |

@@ -7,9 +7,9 @@ Las aventuras de los Butis en el Camindo de Santiago.
 
 | Day | Date    | Start Point        | End Point          | Distance | Mean |
 | --- | -----   | -----------        | ------------------ | -------- | ---- |
-|  0  | Sept 20 | Miami              | Lisboa             |          | :plane: |
+|  0  | Sept 20 | Miami              | Lisboa             |          | :plane: ✈️  |
 |  1  | Sept 21 | Lisboa             | Porto              |          | `:plane:` |
-|  2  | Sept 22 | Porto              | Vila do Conde      |          | `:foot:` |
+|  2  | Sept 22 | Porto              | Vila do Conde      |          | `:foot:` 🦶 |
 |  3  | Sept 23 | Vila do Conde      | Marinhas           |          | `:foot:` |
 |  4  | Sept 24 | Marinhas           | Viana de Castelo   |          | `:foot:` |
 |  5  | Sept 25 | Viana de Castelo   | Caminha            |          | `:foot:` |

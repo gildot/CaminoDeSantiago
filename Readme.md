@@ -5,128 +5,110 @@ Las aventuras de los Butis en el Camindo de Santiago.
 
 ## Calendar
 
-| Day     | Start Point        | End Point          | Distance | 
-| -----   | -----------        | ------------------ | -------- |
-| Sept 19 | NY                 | Hialeah            |          |
-| Sept 20 | Miami              | Lisboa             |          |
-| Sept 20 | Lisboa             | Porto              |          |
-| Sept 21 | Porto              | Vila do Conde      |          |
-| Sept 22 | Vila do Conde      | Marinhas           |          |
-| Sept 23 | Marinhas           | Viana de Castelo   |          |
-| Sept 24 | Viana de Castelo   | Caminha            |          |
-| Sept 25 | Caminha            | Mougás             |          |
-| Sept 26 | Mougás             | A Ramallosa        |          |
-| Sept 27 | A Ramallosa        | Vigo               |          |
-| Sept 28 | Vigo               | Redondela          |          |
-| Sept 29 | Redondela          | Pontevedra         |          |
-| Sept 30 | Pontevedra         | Armenteria         |          |
-| Oct 1   | Armenteria         | Vilanova de Arousa |          |
-| Oct 2   | Vilanova de Arousa | Padrón             |          |
-| Oct 3   | Padrón             | Santiago           |          |
-
-## Item List
-
-| Item              | Abu | Tata | Tato |
-| ----------------- | --- | ---- | ---- |
-| Passport          | [ ] | [ ]  | [x]  |
-| Sabana            | [ ] | [ ]  | [x]  |
-| Agua bag          | [ ] | [ ]  | [x]  |
-| Rain Jacket       | [ ] | [ ]  | [x]  |
-| Fleece            | [ ] | [ ]  | [x]  |
-| Mochila           | [ ] | [ ]  | [x]  |
-| Cubo de Arnica    | [ ] | [ ]  | [x]  |
-| Tangas x ?        | [ ] | [ ]  | [x]  |
-| Medias x ?        | [ ] | [ ]  | [x]  |
-| Popis             | [ ] | [ ]  | [x]  |
-| Zandalias         | [ ] | [ ]  | [x]  |
-| Gorra             | [ ] | [ ]  | [x]  |
-| Sunscreen         | [ ] | [ ]  | [ ]  |
-| Detergente        | [ ] | [ ]  | [ ]  |
+| Day | Date    | Start Point        | End Point          | Distance | Mean |
+| --- | -----   | -----------        | ------------------ | -------- | ---- |
+|  0  | Sept 20 | Miami              | Lisboa             |          | :plane: |
+|  1  | Sept 21 | Lisboa             | Porto              |          | `:plane:` |
+|  2  | Sept 22 | Porto              | Vila do Conde      |          | `:foot:` |
+|  3  | Sept 23 | Vila do Conde      | Marinhas           |          | `:foot:` |
+|  4  | Sept 24 | Marinhas           | Viana de Castelo   |          | `:foot:` |
+|  5  | Sept 25 | Viana de Castelo   | Caminha            |          | `:foot:` |
+|  6  | Sept 26 | Caminha            | Mougás             |          | `:foot:` |
+|  7  | Sept 27 | Mougás             | A Ramallosa        |          | `:foot:` |
+|  8  | Sept 28 | A Ramallosa        | Vigo               |          | `:foot:` |
+|  9  | Sept 29 | Vigo               | Redondela          |          | `:foot:` |
+|  10 | Sept 30 | Redondela          | Pontevedra         |          | `:foot:` |
+|  11 | Oct 1   | Pontevedra         | Armenteria         |          | `:foot:` |
+|  12 | Oct 2   | Armenteria         | Vilanova de Arousa |          | `:foot:` |
+|  13 | Oct 3   | Vilanova de Arousa | Padrón             |          | `:foot:` |
+|  14 | Oct 4   | Padrón             | Santiago           |          | `:foot:` |
+|  14 | Oct 4   | Santiago           | Lisboa             |          | `:plane:` |
+|  15 | Oct 5   | Lisboa             | Miami              |          | `:plane:` |
 
 
 ## Minimalist Items List
 
-|                   | Abu | Tata | Tato |
-| ----------------- | --- | ---- | ---- |
-| **THE BASICS** | | | |
-| Backpack | [ ] | [ ] | [ ] |
-| Waterproof cover | [ ] | [ ] | [ ] |
-| Hydration bladder / Water bottle (1.5 - 2 L) | [ ] | [ ] | [ ] |
-| Waist Pack | [ ] | [ ] | [ ] |
-| Phone | [ ] | [ ] | [ ] |
-| Guidebook Apps / PDF | [ ] | [ ] | [ ] |
-| Wallet | [ ] | [ ] | [ ] |
-| Ziplock bags | [ ] | [ ] | [ ] |
-| Passport | [ ] | [ ] | [ ] |
-| Pilgrim Passport | [ ] | [ ] | [ ] |
-| **TOILETRIES** | | | |
-| Toiletry bag | [ ] | [ ] | [ ] |
-| Towel (microfiber) | [ ] | [ ] | [ ] |
-| Bar soap case | [ ] | [ ] | [ ] |
-| Dr. Bronner's bar soap | [ ] | [ ] | [ ] |
-| Moisturizer | [ ] | [ ] | [ ] |
-| Toothbrush | [ ] | [ ] | [ ] |
-| Tooth Tablets | [ ] | [ ] | [ ] |
-| Floss | [ ] | [ ] | [ ] |
-| Deodorant | [ ] | [ ] | [ ] |
-| Hairbrush | [ ] | [ ] | [ ] |
-| Comb | [ ] | [ ] | [ ] |
-| Hait ties | [ ] | [ ] | [ ] |
-| Lavender essential oil | [ ] | [ ] | [ ] |
-| Sunscreen | [ ] | [ ] | [ ] |
-| Hand sanitizer | [ ] | [ ] | [ ] |
-| SFP chapstick | [ ] | [ ] | [ ] |
-| Soap flakes | [ ] | [ ] | [ ] |
-| **CLOTHING** | | | |
-| Hiking shorts | [ ] | [ ] | [ ] |
-| Sweat pants | [ ] | [ ] | [ ] |
-| Sun hoodie | [ ] | [ ] | [ ] |
-| Merino wool t-shirt | [ ] | [ ] | [ ] |
-| 2 x hiking socks | [ ] | [ ] | [ ] |
-| 2 x sock liners | [ ] | [ ] | [ ] |
-| 2 x cardiolos | [ ] | [ ] | [ ] |
-| 2 x bras | [ ] | [ ] | [ ] |
-| Buff | [ ] | [ ] | [ ] |
-| Sun hat | [ ] | [ ] | [ ] |
-| Fleece | [ ] | [ ] | [ ] |
-| Rain jacket | [ ] | [ ] | [ ] |
-| **SHOES & SANDALS** | | | |
-| Shower sandals | [ ] | [ ] | [ ] |
-| Trail runners | [ ] | [ ] | [ ] |
-| **FIRST AID** | | | |
-| Ibuprofen | [ ] | [ ] | [ ] |
-| ARNICA x 100 | [ ] | [ ] | [ ] |
-| Stomach medicine | [ ] | [ ] | [ ] |
-| Allergy meds | [ ] | [ ] | [ ] |
-| Nail clippers | [ ] | [ ] | [ ] |
-| Scissors | [ ] | [ ] | [ ] |
-| Lamb's wool | [ ] | [ ] | [ ] |
-| Bandaids | [ ] | [ ] | [ ] |
-| Kinesiology tape | [ ] | [ ] | [ ] |
-| Neosporin | [ ] | [ ] | [ ] |
-| Face mask | [ ] | [ ] | [ ] |
-| **ACCESSORIES** | | | |
-| Hiking poles | [ ] | [ ] | [ ] |
-| Carabiner | [ ] | [ ] | [ ] |
-| Sunglasses | [ ] | [ ] | [ ] |
-| Kula Cloth | [ ] | [ ] | [ ] |
-| Notebook & pen | [ ] | [ ] | [ ] |
-| Charging brick and cable (EU pliug) | [ ] | [ ] | [ ] |
-| Headphones | [ ] | [ ] | [ ] |
-| Reusable tote bag | [ ] | [ ] | [ ] |
-| Eye mask | [ ] | [ ] | [ ] |
-| Sleep sack | [ ] | [ ] | [ ] |
-| Sleeping back | [ ] | [ ] | [ ] |
-| Plastic sandwidch bags | [ ] | [ ] | [ ] |
-| Rubber bands | [ ] | [ ] | [ ] |
-| Safety pins | [ ] | [ ] | [ ] |
-| Personal - glasses | [ ] | [ ] | [ ] |
-| Personal - feminine stuff | [ ] | [ ] | [ ] |
-| **SEASONAL** | | | |
-| Swimsuit | [ ] | [ ] | [ ] |
-| Sundress | [ ] | [ ] | [ ] |
-| Gloves | [ ] | [ ] | [ ] |
-| Beanie | [ ] | [ ] | [ ] |
+|                                | Abu | Tata | Tato |
+| -----------------              | --- | ---- | ---- |
+| **THE BASICS**                 | [ ] | [ ]  | [ ]  |
+| Backpack                       | [ ] | [ ]  | [x]  |
+| Waterproof cover               | [ ] | [ ]  | [ ]  |
+| Hydration bladder              | [ ] | [ ]  | [x]  |
+| Water bottle                   | [ ] | [ ]  | [x]  |
+| Waist Pack                     | [ ] | [ ]  | [ ]  |
+| Phone                          | [ ] | [ ]  | [x]  |
+| Guidebook Apps / PDF           | [ ] | [ ]  | [ ]  |
+| Wallet                         | [ ] | [ ]  | [x]  |
+| Ziplock bags x 3               | [ ] | [ ]  | [3]  |
+| Passport                       | [ ] | [ ]  | [x]  |
+| Pilgrim Passport               | [ ] | [ ]  | [ ]  |
+| **TOILETRIES**                 |     |      |      |
+| Toiletry bag                   | [ ] | [ ]  | [x]  |
+| Towel (microfiber)             | [ ] | [ ]  | [ ]  |
+| Bar soap case                  | [ ] | [ ]  | [ ]  |
+| Dr. Bronner's bar soap         | [ ] | [ ]  | [ ]  |
+| Moisturizer                    | [ ] | [ ]  | [ ]  |
+| Toothbrush                     | [ ] | [ ]  | [x]  |
+| Tooth Tablets                  | [ ] | [ ]  | [ ]  |
+| Floss                          | [ ] | [ ]  | [x]  |
+| Deodorant                      | [ ] | [ ]  | [x]  |
+| Hairbrush                      | [ ] | [ ]  | [ ]  |
+| Comb                           | [ ] | [ ]  | [ ]  |
+| Hait ties                      | [ ] | [ ]  | [ ]  |
+| Lavender essential oil         | [ ] | [ ]  | [ ]  |
+| Sunscreen                      | [ ] | [ ]  | [ ]  |
+| Hand sanitizer                 | [ ] | [ ]  | [ ]  |
+| SFP chapstick                  | [ ] | [ ]  | [ ]  |
+| Soap flakes (detergent)        | [ ] | [ ]  | [ ]  |
+| **CLOTHING**                   |     |      |      |
+| Hiking shorts                  | [ ] | [ ]  | [x]  |
+| Sweat pants                    | [ ] | [ ]  | [x]  |
+| Sun hoodie                     | [ ] | [ ]  | [x]  |
+| Merino wool t-shirt            | [ ] | [ ]  | [x]  |
+| 2 x hiking socks               | [ ] | [ ]  | [x]  |
+| 2 x sock liners                | [ ] | [ ]  | [ ]  |
+| 2 x cardiolos                  | [ ] | [ ]  | [x]  |
+| 2 x bras                       | [ ] | [ ]  | [x]  |
+| Buff                           | [ ] | [ ]  | [ ]  |
+| Sun hat                        | [ ] | [ ]  | [x]  |
+| Fleece                         | [ ] | [ ]  | [x]  |
+| Rain jacket                    | [ ] | [ ]  | [x]  |
+| **SHOES & SANDALS**            |     |      |      |
+| Shower sandals                 | [ ] | [ ]  | [ ]  |
+| Trail runners (aka Popis)      | [ ] | [ ]  | [x]  |
+| **FIRST AID**                  |     |      |      |
+| Ibuprofen                      | [ ] | [ ]  | [ ]  |
+| Cubo de ARNICA                 | [ ] | [ ]  | [ ]  |
+| Stomach medicine               | [ ] | [ ]  | [ ]  |
+| Allergy meds                   | [ ] | [ ]  | [ ]  |
+| Nail clippers                  | [ ] | [ ]  | [ ]  |
+| Scissors                       | [ ] | [ ]  | [ ]  |
+| Lamb's wool                    | [ ] | [ ]  | [ ]  |
+| Bandaids                       | [ ] | [ ]  | [ ]  |
+| Kinesiology tape               | [ ] | [ ]  | [ ]  |
+| Neosporin                      | [ ] | [ ]  | [ ]  |
+| Face mask                      | [ ] | [ ]  | [ ]  |
+| **ACCESSORIES**                |     |      |      |
+| Hiking poles                   | [ ] | [ ]  | [-]  |
+| Carabiner                      | [ ] | [ ]  | [ ]  |
+| Sunglasses                     | [ ] | [ ]  | [x]  |
+| Kula Cloth                     | [ ] | [ ]  | [ ]  |
+| Notebook & pen                 | [ ] | [ ]  | [ ]  |
+| Charging brick and cable (EU)  | [ ] | [ ]  | [ ]  |
+| Headphones                     | [ ] | [ ]  | [x]  |
+| Reusable tote bag              | [ ] | [ ]  | [ ]  |
+| Eye mask                       | [ ] | [ ]  | [ ]  |
+| Sleep sack                     | [ ] | [ ]  | [x]  |
+| Plastic sandwidch bags         | [ ] | [ ]  | [ ]  |
+| Rubber bands                   | [ ] | [ ]  | [ ]  |
+| Safety pins                    | [ ] | [ ]  | [ ]  |
+| Personal - glasses             | [ ] | [ ]  | [ ]  |
+| Personal - feminine stuff      | [ ] | [ ]  | [ ]  |
+| **SEASONAL**                   |     |      |      |
+| Swimsuit                       | [ ] | [ ]  | [ ]  |
+| Sundress                       | [ ] | [ ]  | [ ]  |
+| Gloves                         | [ ] | [ ]  | [ ]  |
+| Beanie                         | [ ] | [ ]  | [ ]  |
 
 ---
 

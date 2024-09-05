@@ -5,7 +5,7 @@ Las aventuras de los Butis en el Camindo de Santiago.
 
 ## Calendar
 
-| Day | Date    | Start Point        | End Point          | Distance          | Cummultive | Mean |
+| Day | Date    | Start Point        | End Point          | Distance          | Total      | Mean |
 | --- | -----   | -----------        | ------------------ | ----------------- | ---------- | ---- |
 |     | Sept 20 | Miami              | Lisboa             |                   |            | ✈️    |
 |     | Sept 21 | Lisboa             | Porto              |                   |            | ✈️    |
@@ -113,8 +113,6 @@ Las aventuras de los Butis en el Camindo de Santiago.
 ---
 
 ![ButisCamino2](/images/ButisCamino2.jpeg)
-
-[Images created using ChatGPT image generation tool]
 
 ## Useful links
 - [Stingy Nomads Blog](https://stingynomads.com)

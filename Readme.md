@@ -115,5 +115,6 @@ Las aventuras de los Butis en el Camindo de Santiago.
 ![ButisCamino2](/images/ButisCamino2.jpeg)
 
 ## Useful links
+- [Litoral Trail](https://caminhoportuguesdesantiago.eu/en/the-litoral-trail/)
 - [Stingy Nomads Blog](https://stingynomads.com)
 - [Litoral vs Coastal route - Stingy Nomads Blog](https://stingynomads.com/litoral-way-vs-coastal-route/)

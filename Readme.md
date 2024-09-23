@@ -5,8 +5,8 @@ Las aventuras de los Butis en el Camindo de Santiago.
 
 ## Calendar
 
-| Day | Date    | Start Point        | End Point          | Distance          | Total      | Mean ||
-| --- | -----   | -----------        | ------------------ | ----------------- | ---------- | ---- ||
+| Day | Date    | Start Point        | End Point          | Distance          | Total      | Mean | Details |
+| --- | -----   | -----------        | ------------------ | ----------------- | ---------- | ---- | --- |
 |     | Sept 20 | Miami              | Lisboa             |                   |            | ✈️    ||
 |     | Sept 21 | Lisboa             | Porto              |                   |            | 🚌   | []()|
 |  1  | Sept 22 | Porto              | Vila do Conde      | 33 km / 20.5 mi   | 33 km  | 🦶   | [Day 1](/Stages/day1.md)|

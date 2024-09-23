@@ -27,7 +27,7 @@ Las aventuras de los Butis en el Camindo de Santiago.
 
 ---
 
-[Minimalist Items List](/PackingList.md)
+[Minimalist Items List](PackingList.md)
 
 ---
 
